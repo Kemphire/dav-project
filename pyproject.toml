@@ -1,0 +1,14 @@
+[project]
+name = "dav-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "numpy>=2.1.3",
+    "pandas>=2.2.3",
+    "pandas-stubs>=2.2.3.241009",
+    "matplotlib>=3.9.2",
+    "jupyter>=1.1.1",
+]
