@@ -57,7 +57,7 @@
 
 # Our Solution to the above objectives respectively
 
-1. ## General things
+## General things
 
 ##### To analyse the amount of developers from India Participating in this survery
 
@@ -102,7 +102,7 @@ And i've prepared a horizonatal stacked bar chart to compare the percentage of d
 ![1_d_2](charts/1_d_2.png)
 
 
-2. ## Demographics and education
+## Demographics and education
 
 #### What is the age distribution of Indian developers?
 
@@ -125,7 +125,7 @@ We have made a comparitive line chart and scatter plot to compare the difference
 
 ![2_c](charts/2_c.png)
 
-3. ## Technology and Skills
+## Technology and Skills
 
 ####  What programming languages, tools, and frameworks are most popular among Indian developers?
 
