@@ -133,19 +133,19 @@ This was the most challenging for us till now in this analysis, we have made hor
 
 we have categorized our analysis for this particular objective in three section
 
-1. ###### About languages, languages people currently using, want to use and language peple admire
+1. **About languages, languages people currently using, want to use and language peple admire**
 
 For this we have cooked three three plots describing the statistics
 
 ![3_a](charts/3_a.png)
 
-2. ###### About web framework, web framework people currently using, want to use and web framework peple admire
+2. **About web framework, web framework people currently using, want to use and web framework peple admire**
 
 For this we have cooked three three plots describing the statistics
 
 ![3_b](charts/3_b.png)
 
-3. ###### About dev tools, dev tools people currently using, want to use and dev tools peple admire
+3. **About dev tools, dev tools people currently using, want to use and dev tools peple admire**
 
 ![3_c](charts/3_c.png)
 
